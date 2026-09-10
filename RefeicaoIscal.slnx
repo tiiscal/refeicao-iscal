@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Refeicao.Api/Refeicao.Api.csproj" />
+  <Project Path="Refeicao.Core/Refeicao.Core.csproj" />
+  <Project Path="Refeicao.Tests/Refeicao.Tests.csproj" Id="733d5577-47ae-425c-998b-ab9df8927566" />
+</Solution>
